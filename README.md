@@ -1,12 +1,16 @@
-# 🚀 Smart Reminder – Android Application (Java | Android Studio)
+# 🚀 Smart Reminder – Android Application (Java)
 
 I have developed a small but very useful Android application named Smart Reminder using Java in Android Studio.
 
 ✨ Key Features:
 🔐 Easy login system with Email + 5-digit PIN
+
 📧 Secure Email & Password storage
+
 📸 Screenshots storage feature
+
 🔁 Forgot PIN? No worries! Reset easily via OTP sent to Email
+
 ⚡ Simple, lightweight & user-friendly interface
 
 This app is designed to be simple yet practical, focusing on daily usability and security.
