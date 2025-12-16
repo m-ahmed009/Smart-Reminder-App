@@ -3,6 +3,7 @@
 I have developed a small but very useful Android application named Smart Reminder using Java in Android Studio.
 
 ✨ Key Features:
+
 🔐 Easy login system with Email + 5-digit PIN
 
 📧 Secure Email & Password storage
