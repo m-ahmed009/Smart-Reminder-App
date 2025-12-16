@@ -14,3 +14,4 @@ A great learning experience in Android development, authentication, OTP handling
 
 💡 Always learning & building!
 Feedback is welcome 😊
+<img width="1200" height="628" alt="Blue Modern Money Managing Mobile App Promotion Facebook Ad" src="https://github.com/user-attachments/assets/37b966ed-defb-4c51-aaec-84cc1ba58829" />
